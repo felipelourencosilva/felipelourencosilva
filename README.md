@@ -27,3 +27,5 @@
 </p>
   
 ##
+  
+![Felipe Lourenço's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lipelourencosilva&show_icons=true&theme=tokyonight&title_color=1DA1F2&text_color=5438FF&icon_color=1DA1F2&border_color=1DA1F2)
