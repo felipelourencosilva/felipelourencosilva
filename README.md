@@ -6,7 +6,10 @@
   <a href="https://www.instagram.com/lipelourencox/"><img src="https://img.shields.io/badge/Instagram-5438FF?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="35px">
+
+ <h4 align="center"> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">  I'm Felipe and i've been coding since the beginning of 2021!
+ </h4>
 
 <h2>  ☄ Technologies & Tools
 
