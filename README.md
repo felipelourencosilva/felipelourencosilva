@@ -1,10 +1,12 @@
-<h1 align="center"> 🌌 Hey, welcome to my profile! </h1>
+<h1 align="center"> 🌌 Hey, welcome to my profile! </h1> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-louren%C3%A7o-294121206/"><img src="https://img.shields.io/badge/LinkedIn-5438FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/lipelourenco_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/lipelourencox/"><img src="https://img.shields.io/badge/Instagram-5438FF?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
+
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="35px">
 
 <h2>  ☄ Technologies & Tools
 
