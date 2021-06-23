@@ -8,7 +8,9 @@
 
 
  <h4 align="center"> 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">  I'm Felipe and i've been coding since the beginning of 2021!
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">  
+    I'm Felipe and i've been coding since the beginning of 2021! 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">
  </h4>
 
 <h2>  ☄ Technologies & Tools
