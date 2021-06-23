@@ -7,11 +7,11 @@
 </p>
 
 
- <h4 align="center"> 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">  
+ <h3 align="center"> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">  
     I'm Felipe and i've been coding since the beginning of 2021! 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">
- </h4>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
+ </h3>
 
 <h2>  ☄ Technologies & Tools
 
