@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/CSS3-1DA1F2?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-5438FF?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-1DA1F2?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-5438FF?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactJS-5438FF?style=flat-square&logo=react&logoColor=white"/>
 </p>
   
   <h3> 🌠 I want to learn </h3>
