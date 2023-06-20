@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipelourencos/"><img src="https://img.shields.io/badge/LinkedIn-5438FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/lipelourencs/"><img src="https://img.shields.io/badge/Instagram-5438FF?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/felipelourencs/"><img src="https://img.shields.io/badge/Instagram-5438FF?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 <h2>  ☄ Technologies & Tools </h2>
