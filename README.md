@@ -1,31 +1,54 @@
-<h1 align="center"> 🌌 Hey, welcome to my profile! </h1> 
+<h1 align="left"> Hey, I'm Felipe  
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="35"
+         width="35" 
+  />
+</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipelourencos/"><img src="https://img.shields.io/badge/LinkedIn-5438FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/felipelourencs/"><img src="https://img.shields.io/badge/Instagram-5438FF?style=flat-square&logo=instagram&logoColor=white"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipelourencosilva&color=blueviolet" alt="Profile views" /> </p>
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+## Contact
+
+<p align="left" style="background:blue">
+<a href="https://instagram.com/felipelourencs" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-felipelourencs-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://linkedin.com/in/felipelourencos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-felipelourencos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 </p>
 
-<h2>  ☄ Technologies & Tools </h2>
+<br>
 
-  <h3>  🚀 I'm learning </h3>
-  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-5438FF?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1DA1F2?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-5438FF?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-1DA1F2?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactJS-5438FF?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=felipelourencosilva&show_icons=true&theme=tokyonight" alt="felipelourenco's stats"/>
 </p>
-  
-  <h3> 🌠 I want to learn </h3>
-  
- <p>
-  <img src="https://img.shields.io/badge/React_Native-5438FF?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-1DA1F2?style=flat-square&logo=node-dot-js&logoColor=white"/>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
-</p>
-  
-  <h2></h2>
-  
-![Felipe Lourenço's GitHub Stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&title_color=1DA1F2&text_color=5438FF&icon_color=1DA1F2&border_color=1DA1F2&username=lipelourencosilva)
+
