@@ -6,8 +6,6 @@
   />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipelourencosilva&color=blueviolet" alt="Profile views" /> </p>
-
 <!--
 Here are some ideas to get you started:
 
