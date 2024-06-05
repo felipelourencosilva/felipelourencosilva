@@ -20,7 +20,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=8178EB&color:FFF)](mailto:lipelourencosilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8178EB&color:FFF)](https://www.linkedin.com/in/felipelourencos/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8178EB&color:FFF)](https://www.instagram.com/felipelourencs/)
 
 
 <h3>GitHub Analytics</h3> 
